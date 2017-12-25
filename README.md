@@ -16,13 +16,13 @@ Image | URL
 
 ## web-badges (80x15)
 
-Name | Image | URL
---- | --- | ---
-| 0-public-domain | ![0-public-domain](https://rawgit.com/jmnote/web-badges/master/80x15/0-public-domain_80x15.png) | https://rawgit.com/jmnote/web-badges/master/80x15/0-public-domain_80x15.png
-| cc-by | ![cc-by](https://rawgit.com/jmnote/web-badges/master/80x15/cc-by_80x15.png) | https://rawgit.com/jmnote/web-badges/master/80x15/cc-by_80x15.png
-| cc-by-nc | ![cc-by-nc](https://rawgit.com/jmnote/web-badges/master/80x15/cc-by-nc_80x15.png) | https://rawgit.com/jmnote/web-badges/master/80x15/cc-by-nc_80x15.png
-| cc-by-nd | ![cc-by-nd](https://rawgit.com/jmnote/web-badges/master/80x15/cc-by-nd_80x15.png) | https://rawgit.com/jmnote/web-badges/master/80x15/cc-by-nd_80x15.png
-| cc-by-sa | ![cc-by-sa](https://rawgit.com/jmnote/web-badges/master/80x15/cc-by-sa_80x15.png) | https://rawgit.com/jmnote/web-badges/master/80x15/cc-by-sa_80x15.png
-| cc-by-nc-nd | ![cc-by-nc-nd](https://rawgit.com/jmnote/web-badges/master/80x15/cc-by-nc-nd_80x15.png) | https://rawgit.com/jmnote/web-badges/master/80x15/cc-by-nc-nd_80x15.png
-| cc-by-nc-sa | ![cc-by-nc-sa](https://rawgit.com/jmnote/web-badges/master/80x15/cc-by-nc-sa_80x15.png) | https://rawgit.com/jmnote/web-badges/master/80x15/cc-by-nc-sa_80x15.png   
+Image | URL
+--- | ---
+![0-public-domain](https://rawgit.com/jmnote/web-badges/master/80x15/0-public-domain_80x15.png) | https://rawgit.com/jmnote/web-badges/master/80x15/0-public-domain_80x15.png
+![cc-by](https://rawgit.com/jmnote/web-badges/master/80x15/cc-by_80x15.png) | https://rawgit.com/jmnote/web-badges/master/80x15/cc-by_80x15.png
+![cc-by-nc](https://rawgit.com/jmnote/web-badges/master/80x15/cc-by-nc_80x15.png) | https://rawgit.com/jmnote/web-badges/master/80x15/cc-by-nc_80x15.png
+![cc-by-nd](https://rawgit.com/jmnote/web-badges/master/80x15/cc-by-nd_80x15.png) | https://rawgit.com/jmnote/web-badges/master/80x15/cc-by-nd_80x15.png
+![cc-by-sa](https://rawgit.com/jmnote/web-badges/master/80x15/cc-by-sa_80x15.png) | https://rawgit.com/jmnote/web-badges/master/80x15/cc-by-sa_80x15.png
+![cc-by-nc-nd](https://rawgit.com/jmnote/web-badges/master/80x15/cc-by-nc-nd_80x15.png) | https://rawgit.com/jmnote/web-badges/master/80x15/cc-by-nc-nd_80x15.png
+![cc-by-nc-sa](https://rawgit.com/jmnote/web-badges/master/80x15/cc-by-nc-sa_80x15.png) | https://rawgit.com/jmnote/web-badges/master/80x15/cc-by-nc-sa_80x15.png   
 
