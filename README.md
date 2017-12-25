@@ -13,6 +13,7 @@ Image | URL
 ![powered-by-mediawiki](https://rawgit.com/jmnote/web-badges/master/88x31/powered-by-mediawiki_88x31.png) | https://rawgit.com/jmnote/web-badges/master/88x31/powered-by-mediawiki_88x31.png   
 ![powered-by-semantic-mediawiki](https://rawgit.com/jmnote/web-badges/master/88x31/powered-by-semantic-mediawiki_88x31.png) | https://rawgit.com/jmnote/web-badges/master/88x31/powered-by-semantic-mediawiki_88x31.png
 ![monitored-by-wikiapiary](https://rawgit.com/jmnote/web-badges/master/88x31/monitored-by-wikiapiary_88x31.png) | https://rawgit.com/jmnote/web-badges/master/88x31/monitored-by-wikiapiary_88x31.png
+![powered-by-debian](https://rawgit.com/jmnote/web-badges/master/88x31/powered-by-debian_88x31.png) | https://rawgit.com/jmnote/web-badges/master/88x31/powered-by-debian_88x31.png
 ![powered-by-mariadb](https://rawgit.com/jmnote/web-badges/master/88x31/powered-by-mariadb_88x31.png) | https://rawgit.com/jmnote/web-badges/master/88x31/powered-by-mariadb_88x31.png
 ![powered-by-tadpolehub](https://rawgit.com/jmnote/web-badges/master/88x31/powered-by-tadpolehub_88x31.png) | https://rawgit.com/jmnote/web-badges/master/88x31/powered-by-tadpolehub_88x31.png
 ![served-by-ucloud-biz](https://rawgit.com/jmnote/web-badges/master/88x31/served-by-ucloud-biz_88x31.png) | https://rawgit.com/jmnote/web-badges/master/88x31/served-by-ucloud-biz_88x31.png   
