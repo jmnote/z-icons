@@ -11,8 +11,12 @@ Image | URL
 ![cc-by-nc-sa](https://rawgit.com/jmnote/web-badges/master/88x31/cc-by-nc-sa_88x31.png) | https://rawgit.com/jmnote/web-badges/master/88x31/cc-by-nc-sa_88x31.png   
 ![wikimedia-project](https://rawgit.com/jmnote/web-badges/master/88x31/wikimedia-project_88x31.png) | https://rawgit.com/jmnote/web-badges/master/88x31/wikimedia-project_88x31.png   
 ![powered-by-mediawiki](https://rawgit.com/jmnote/web-badges/master/88x31/powered-by-mediawiki_88x31.png) | https://rawgit.com/jmnote/web-badges/master/88x31/powered-by-mediawiki_88x31.png   
+![powered-by-semantic-mediawiki](https://rawgit.com/jmnote/web-badges/master/88x31/powered-by-semantic-mediawiki_88x31.png) | https://rawgit.com/jmnote/web-badges/master/88x31/powered-by-semantic-mediawiki_88x31.png
+![monitored-by-wikiapiary](https://rawgit.com/jmnote/web-badges/master/88x31/monitored-by-wikiapiary_88x31.png) | https://rawgit.com/jmnote/web-badges/master/88x31/monitored-by-wikiapiary_88x31.png
+![powered-by-mariadb](https://rawgit.com/jmnote/web-badges/master/88x31/powered-by-mariadb_88x31.png) | https://rawgit.com/jmnote/web-badges/master/88x31/powered-by-mariadb_88x31.png
 ![served-by-ucloud-biz](https://rawgit.com/jmnote/web-badges/master/88x31/served-by-ucloud-biz_88x31.png) | https://rawgit.com/jmnote/web-badges/master/88x31/served-by-ucloud-biz_88x31.png   
-![served-by-linode](https://rawgit.com/jmnote/web-badges/master/88x31/served-by-linode_88x31.png) | https://rawgit.com/jmnote/web-badges/master/88x31/served-by-linode_88x31.png   
+![served-by-linode](https://rawgit.com/jmnote/web-badges/master/88x31/served-by-linode_88x31.png) | https://rawgit.com/jmnote/web-badges/master/88x31/served-by-linode_88x31.png
+
 
 ## web-badges (80x15)
 
