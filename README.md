@@ -31,4 +31,6 @@ Image | URL
 ![cc-by-sa](https://rawgit.com/jmnote/web-badges/master/80x15/cc-by-sa_80x15.png) | https://rawgit.com/jmnote/web-badges/master/80x15/cc-by-sa_80x15.png
 ![cc-by-nc-nd](https://rawgit.com/jmnote/web-badges/master/80x15/cc-by-nc-nd_80x15.png) | https://rawgit.com/jmnote/web-badges/master/80x15/cc-by-nc-nd_80x15.png
 ![cc-by-nc-sa](https://rawgit.com/jmnote/web-badges/master/80x15/cc-by-nc-sa_80x15.png) | https://rawgit.com/jmnote/web-badges/master/80x15/cc-by-nc-sa_80x15.png   
-
+![php-power-micro](https://rawgit.com/jmnote/web-badges/master/80x15/php-power-micro.png) | https://rawgit.com/jmnote/web-badges/master/80x15/php-power-micro.png
+![php-power-micro](https://rawgit.com/jmnote/web-badges/master/80x15/php-power-micro2.png) | https://rawgit.com/jmnote/web-badges/master/80x15/php-power-micro2.png
+![php-power-micro](https://rawgit.com/jmnote/web-badges/master/80x15/php5-power-micro.png) | https://rawgit.com/jmnote/web-badges/master/80x15/php5-power-micro.png
