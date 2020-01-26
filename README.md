@@ -2,6 +2,7 @@
 Image  | URL
 ------ | ------------------------------------------------------------------------
 ![Bash](https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/bash.png)     | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/bash.png
+![Go](https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/go.png)         | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/go.png
 ![Perl](https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/perl.png)     | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/perl.png
 ![PHP](https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/php.png)       | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/php.png
 ![Python](https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png) | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png
