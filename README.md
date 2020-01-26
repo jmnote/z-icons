@@ -1,3 +1,9 @@
+## unicode
+Character | Language
+--- | ---
+🐍 | Python
+🐫 | Perl
+
 ## svg
 Image | URL
 ----- | ---
