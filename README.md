@@ -1,6 +1,6 @@
 ## svg
 Image | URL 
-![C](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg) | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg
+<img src="./svg/c.svg" height="60"> | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg
 
 ## icon 16x16
 Image  | URL
