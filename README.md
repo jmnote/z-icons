@@ -1,5 +1,6 @@
 ## svg
-Image | URL 
+Image | URL
+----- | ---
 <img src="./svg/c.svg" height="60"> | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg
 
 ## icon 16x16
