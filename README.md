@@ -1,4 +1,13 @@
-## z-icons (88x31)
+## icon 16x16
+Image | URL
+--- | ---
+![Bash](https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/bash.png) | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/bash.png
+![Perl](https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/perl.png) | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/perl.png
+![PHP](https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/php.png) | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/php.png
+![Python](https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png) | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png
+![Ruby](https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/ruby.png) | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/ruby.png
+
+## badges 88x31
 
 Image | URL
 --- | ---
@@ -20,7 +29,7 @@ Image | URL
 ![served-by-linode](https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/served-by-linode_88x31.png) | https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/served-by-linode_88x31.png
 
 
-## z-icons (80x15)
+## badges 80x15
 
 Image | URL
 --- | ---
