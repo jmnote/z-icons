@@ -53,4 +53,5 @@ Image | URL
 
 ## source
 * favicon
+* Wikimedia Commons
 * https://github.com/konpa/devicon
