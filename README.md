@@ -1,7 +1,7 @@
 ## icon 16x16
 Image  | URL
 ------ | ------------------------------------------------------------------------
-Bash   | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/bash.png
+(https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/bash.png)   | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/bash.png
 Perl   | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/perl.png
 PHP    | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/php.png
 Python | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png
