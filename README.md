@@ -1,6 +1,6 @@
 ## svg
-Image | URL
-![]https://github.com/konpa/devicon/blob/master/icons/c/c-original.svg | https://github.com/konpa/devicon/blob/master/icons/c/c-original.svg
+Image | URL 
+![C](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg =64x64) | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg
 
 ## icon 16x16
 Image  | URL
