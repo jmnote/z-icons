@@ -1,3 +1,7 @@
+## svg
+Image | URL
+![]https://github.com/konpa/devicon/blob/master/icons/c/c-original.svg | https://github.com/konpa/devicon/blob/master/icons/c/c-original.svg
+
 ## icon 16x16
 Image  | URL
 ------ | ------------------------------------------------------------------------
@@ -45,3 +49,7 @@ Image | URL
 ![php-power-micro](https://raw.githubusercontent.com/jmnote/z-icons/master/80x15/php-power-micro.png) | https://raw.githubusercontent.com/jmnote/z-icons/master/80x15/php-power-micro.png
 ![php-power-micro](https://raw.githubusercontent.com/jmnote/z-icons/master/80x15/php-power-micro2.png) | https://raw.githubusercontent.com/jmnote/z-icons/master/80x15/php-power-micro2.png
 ![php-power-micro](https://raw.githubusercontent.com/jmnote/z-icons/master/80x15/php5-power-micro.png) | https://raw.githubusercontent.com/jmnote/z-icons/master/80x15/php5-power-micro.png
+
+## source
+* favicon
+* https://github.com/konpa/devicon
