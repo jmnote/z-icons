@@ -41,6 +41,8 @@ Image | URL
 ![monitored-by-wikiapiary](https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/monitored-by-wikiapiary_88x31.png) | https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/monitored-by-wikiapiary_88x31.png
 ![powered-by-debian](https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/powered-by-debian_88x31.png) | https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/powered-by-debian_88x31.png
 ![powered-by-mariadb](https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/powered-by-mariadb_88x31.png) | https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/powered-by-mariadb_88x31.png
+![powered-by-php](https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/php-power-white.png) | https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/php-power-white.png
+![powered-by-php](https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/php-power-black.png) | https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/php-power-black.png
 ![powered-by-tadpolehub](https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/powered-by-tadpolehub_88x31.png) | https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/powered-by-tadpolehub_88x31.png
 ![served-by-ucloud-biz](https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/served-by-ucloud-biz_88x31.png) | https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/served-by-ucloud-biz_88x31.png   
 ![served-by-linode](https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/served-by-linode_88x31.png) | https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/served-by-linode_88x31.png
