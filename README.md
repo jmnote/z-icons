@@ -8,9 +8,11 @@ Character | Language
 Image | URL
 ----- | ---
 <img height="60" src="./svg/bash.svg">       | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg
+<img height="60" src="./svg/bootstrap.svg">  | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg
 <img height="60" src="./svg/c.svg">          | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg
 <img height="60" src="./svg/cpp.svg">        | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg
 <img height="60" src="./svg/csharp.svg">     | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg
+<img height="60" src="./svg/kubernetes.svg"> | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg
 <img height="60" src="./svg/go.svg">         | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg
 <img height="60" src="./svg/java.svg">       | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg
 <img height="60" src="./svg/javascript.svg"> | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg
@@ -22,13 +24,15 @@ Image | URL
 ## png 16x16 icons
 Image | URL
 ----- | ---
-<img src="./16x16/bash.png">   | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/bash.png
-<img src="./16x16/go.png">     | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/go.png
-<img src="./16x16/perl.png">   | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/perl.png
-<img src="./16x16/php.png">    | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/php.png
-<img src="./16x16/python.png"> | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png
-<img src="./16x16/r.png">      | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/r.png
-<img src="./16x16/ruby.png">   | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/ruby.png
+<img src="./16x16/bash.png">       | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/bash.png
+<img src="./16x16/bootstrap.png">  | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/bootstrap.png
+<img src="./16x16/go.png">         | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/go.png
+<img src="./16x16/perl.png">       | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/perl.png
+<img src="./16x16/php.png">        | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/php.png
+<img src="./16x16/python.png">     | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png
+<img src="./16x16/r.png">          | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/r.png
+<img src="./16x16/kubernetes.png"> | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/kubernetes.png
+<img src="./16x16/ruby.png">       | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/ruby.png
 
 ## png 32x32 icons
 Image | URL
