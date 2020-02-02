@@ -1,6 +1,6 @@
 ## unicode
 Character | Language
---- | ---
+--------- | --------
 🐍 | Python
 🐫 | Perl
 
@@ -10,8 +10,8 @@ Image | URL
 <img src="./svg/c.svg" height="60"> | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg
 
 ## png 16x16 icons
-Image  | URL
------- | ------------------------------------------------------------------------
+Image | URL
+----- | ---
 ![Bash](https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/bash.png)     | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/bash.png
 ![Go](https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/go.png)         | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/go.png
 ![Perl](https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/perl.png)     | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/perl.png
@@ -20,10 +20,14 @@ Image  | URL
 ![R](https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/r.png)           | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/r.png
 ![Ruby](https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/ruby.png)     | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/ruby.png
 
-## png 88x31 badges
-
+## png 32x32 icons
 Image | URL
---- | ---
+----- | ---
+![PHP](https://raw.githubusercontent.com/jmnote/z-icons/master/32x32/php.png)       | https://raw.githubusercontent.com/jmnote/z-icons/master/32x32/php.png
+
+## png 88x31 badges
+Image | URL
+----- | ---
 ![0-public-domain](https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/0-public-domain_88x31.png) | https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/0-public-domain_88x31.png
 ![cc-by](https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/cc-by_88x31.png) | https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/cc-by_88x31.png
 ![cc-by-nc](https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/cc-by-nc_88x31.png) | https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/cc-by-nc_88x31.png
