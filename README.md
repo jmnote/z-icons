@@ -7,7 +7,17 @@ Character | Language
 ## svg
 Image | URL
 ----- | ---
-<img src="./svg/c.svg" height="60"> | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg
+<img height="60" src="./svg/bash.svg">       | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg
+<img height="60" src="./svg/c.svg">          | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg
+<img height="60" src="./svg/cpp.svg">        | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg
+<img height="60" src="./svg/csharp.svg">     | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg
+<img height="60" src="./svg/go.svg">         | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg
+<img height="60" src="./svg/java.svg">       | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg
+<img height="60" src="./svg/javascript.svg"> | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg
+<img height="60" src="./svg/php.svg">        | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg
+<img height="60" src="./svg/python.svg">     | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg
+<img height="60" src="./svg/r.svg">          | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg
+<img height="60" src="./svg/ruby.svg">       | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg
 
 ## png 16x16 icons
 Image | URL
