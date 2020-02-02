@@ -9,7 +9,7 @@ Image | URL
 ----- | ---
 <img src="./svg/c.svg" height="60"> | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg
 
-## icon 16x16
+## png 16x16 icons
 Image  | URL
 ------ | ------------------------------------------------------------------------
 ![Bash](https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/bash.png)     | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/bash.png
@@ -20,7 +20,7 @@ Image  | URL
 ![R](https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/r.png)           | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/r.png
 ![Ruby](https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/ruby.png)     | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/ruby.png
 
-## badges 88x31
+## png 88x31 badges
 
 Image | URL
 --- | ---
@@ -42,7 +42,7 @@ Image | URL
 ![served-by-linode](https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/served-by-linode_88x31.png) | https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/served-by-linode_88x31.png
 
 
-## badges 80x15
+## png 80x15 badges
 
 Image | URL
 --- | ---
@@ -61,3 +61,4 @@ Image | URL
 * favicon
 * Wikimedia Commons
 * https://github.com/konpa/devicon
+* https://www.php.net/download-logos.php
