@@ -2,6 +2,7 @@
 Character | Language
 --------- | --------
 🐳 | Docker
+☸️ | Kubernetes
 🐫 | Perl
 🐍 | Python
 
