@@ -1,8 +1,9 @@
 ## unicode
-Character | Language
+Character | Meaning
 --------- | --------
 🐳 | Docker
 ☸️ | Kubernetes
+📦 | Package
 🐫 | Perl
 🐍 | Python
 
