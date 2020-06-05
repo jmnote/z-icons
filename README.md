@@ -2,6 +2,7 @@
 Character | Meaning
 --------- | --------
 🐳 | Docker
+🦍 | Gorilla Web Toolkit
 ☸️ | Kubernetes
 📦 | Package
 🐫 | Perl
