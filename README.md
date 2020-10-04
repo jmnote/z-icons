@@ -16,10 +16,7 @@ Image | URL
 <img height="60" src="./svg/c.svg">          | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg
 <img height="60" src="./svg/cpp.svg">        | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg
 <img height="60" src="./svg/csharp.svg">     | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg
-<img height="60" src="./svg/facebook.svg">   | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg
-<img height="60" src="./svg/github.svg">     | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg
 <img height="60" src="./svg/go.svg">         | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg
-<img height="60" src="./svg/google.svg">     | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/google.svg
 <img height="60" src="./svg/kubernetes.svg"> | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg
 <img height="60" src="./svg/java.svg">       | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg
 <img height="60" src="./svg/javascript.svg"> | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg
@@ -27,6 +24,10 @@ Image | URL
 <img height="60" src="./svg/python.svg">     | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg
 <img height="60" src="./svg/r.svg">          | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg
 <img height="60" src="./svg/ruby.svg">       | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg
+<img height="60" src="./svg/facebook.svg">   | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg
+<img height="60" src="./svg/github.svg">     | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg
+<img height="60" src="./svg/google.svg">     | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/google.svg
+<img height="60" src="./svg/naver.svg">     | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/naver.svg
 
 ## png 16x16 icons
 Image | URL
