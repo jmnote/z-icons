@@ -28,6 +28,7 @@ Image | URL
 <img height="60" src="./svg/github.svg">     | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg
 <img height="60" src="./svg/google.svg">     | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/google.svg
 <img height="60" src="./svg/naver.svg">     | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/naver.svg
+<img height="60" src="./svg/twitter.svg">     | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/twitter.svg
 
 ## png 16x16 icons
 Image | URL
