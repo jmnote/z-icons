@@ -18,9 +18,10 @@ Image | URL
 <img height="60" src="./svg/csharp.svg">     | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg
 <img height="60" src="./svg/git.svg">        | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg
 <img height="60" src="./svg/go.svg">         | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg
-<img height="60" src="./svg/kubernetes.svg"> | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg
 <img height="60" src="./svg/java.svg">       | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg
 <img height="60" src="./svg/javascript.svg"> | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg
+<img height="60" src="./svg/kubernetes.svg"> | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg
+<img height="60" src="./svg/lodash.svg">     | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/lodash.svg
 <img height="60" src="./svg/php.svg">        | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg
 <img height="60" src="./svg/python.svg">     | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg
 <img height="60" src="./svg/r.svg">          | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg
@@ -37,11 +38,11 @@ Image | URL
 <img src="./16x16/bash.png">       | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/bash.png
 <img src="./16x16/bootstrap.png">  | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/bootstrap.png
 <img src="./16x16/go.png">         | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/go.png
+<img src="./16x16/kubernetes.png"> | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/kubernetes.png
 <img src="./16x16/perl.png">       | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/perl.png
 <img src="./16x16/php.png">        | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/php.png
 <img src="./16x16/python.png">     | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png
 <img src="./16x16/r.png">          | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/r.png
-<img src="./16x16/kubernetes.png"> | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/kubernetes.png
 <img src="./16x16/ruby.png">       | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/ruby.png
 <img src="./16x16/tadpolehub.png"> | https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/tadpolehub.png
 
