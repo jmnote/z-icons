@@ -1,6 +1,7 @@
 ## unicode
 Character | Meaning
 --------- | --------
+🐛 | Bug
 🐳 | Docker
 🦍 | Gorilla Web Toolkit
 ☸️ | Kubernetes
