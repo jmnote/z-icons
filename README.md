@@ -1,6 +1,6 @@
-## unicode
-Character | Meaning
---------- | --------
+## Emoji
+Emoji | Meaning
+----- | --------
 🐛 | Bug
 🐳 | Docker
 🦍 | Gorilla Web Toolkit
@@ -8,6 +8,8 @@ Character | Meaning
 📦 | Package
 🐫 | Perl
 🐍 | Python
+👨‍💻 | Man Technologist
+👩‍💻 | Woman Technologist
 
 ## svg
 Image | URL
