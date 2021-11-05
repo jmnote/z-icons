@@ -4,7 +4,7 @@ Emoji | Meaning
 🐛 | Bug
 🐳 | Docker
 🦍 | Gorilla Web Toolkit
-☸️ | Kubernetes
+☸️ ⎈ | Kubernetes
 📦 | Package
 🐫 | Perl
 🐍 | Python
