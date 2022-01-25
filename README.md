@@ -1,6 +1,7 @@
 ## Emoji
 Emoji | Meaning
 ----- | --------
+🤖 | Bot
 🐛 | Bug
 🐳 | Docker
 🦍 | Gorilla Web Toolkit
