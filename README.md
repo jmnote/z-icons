@@ -79,6 +79,7 @@ Image | URL
 <img src="./88x31/cc-by-sa.png">                      | https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/cc-by-sa.png
 <img src="./88x31/cc-by-nc-nd.png">                   | https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/cc-by-nc-nd.png
 <img src="./88x31/cc-by-nc-sa.png">                   | https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/cc-by-nc-sa.png   
+<img src="./88x31/github.png">                        | https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/github.png   
 <img src="./88x31/wikimedia-project.png">             | https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/wikimedia-project.png   
 <img src="./88x31/powered-by-mediawiki.png">          | https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/powered-by-mediawiki.png   
 <img src="./88x31/powered-by-semantic-mediawiki.png"> | https://raw.githubusercontent.com/jmnote/z-icons/master/88x31/powered-by-semantic-mediawiki.png
