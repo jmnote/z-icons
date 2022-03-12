@@ -5,12 +5,23 @@ Emoji | Meaning
 🐛 | Bug
 🐳 | Docker
 🦍 | Gorilla Web Toolkit
-☸️ ⎈ | Kubernetes
+☸️ | Kubernetes
 📦 | Package
 🐫 | Perl
 🐍 | Python
-👨‍💻 | Man Technologist
-👩‍💻 | Woman Technologist
+👨‍💻 | Man technologist
+👩‍💻 | Woman technologist
+⚠️ | Warning
+🚧 | Work in progress
+💥 | Breaking change
+✨ | New feature
+🔖 | Version tag
+🔨 | Refactor code
+🔒 | Security
+🍎 | Mac OS
+🐧 | Linux 
+🏁 | Windows
+
 
 ## svg
 Image | URL
