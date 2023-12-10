@@ -8,6 +8,7 @@ Emoji | Meaning
 ☸️ | Kubernetes
 📦 | Package
 🐫 | Perl
+🐘 | PHP
 🐍 | Python
 👨‍💻 | Man technologist
 👩‍💻 | Woman technologist
